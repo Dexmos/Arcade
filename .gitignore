@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+CMakeLists.txt/
+.idea/*
+cmake-build-debug/*
+/cmake-build-debug/
+*.o
+/CMakeLists.txt
+/lib/lib_test_1.so
+/lib/lib_test_2.so
+/games/lib_test_3.so
+/games/lib_test_4.so
+/games/lib_test_5.so
+/games/lib_test_6.so
+/games/lib_arcade_snake.so
+/games/lib_arcade_debug_snake.so
+/games/lib_arcade_their_snake.so
